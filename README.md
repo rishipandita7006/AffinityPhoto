@@ -1,6 +1,6 @@
 # Affinity Photo Beta Versions
 
-[![Affinity Photo](http://j-p-g.net/if/2020/04/06/0340392001586159548.png "Affinity Photo")](http://j-p-g.net/if/2020/04/06/0838718001586159457.png "Affinity Photo")
+[![Affinity Photo](http://j-p-g.net/if/2020/04/06/0340392001586159548.png "Affinity Photo")](https://affinity.serif.com/ "Affinity Photo")
 
 
 Test versions of the program are closed access.  Only for developers and bloggers review. 
